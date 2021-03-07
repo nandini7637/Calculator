@@ -56,3 +56,27 @@ input[type = "button"]{
      font-weight: bolder;
      outline: none;
 }
+
+input[type="button"]:hover{
+  background: #CACCCE;
+
+}
+
+input[type="submit"]{
+
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    font-size: 20px;
+    border: none;
+    border-bottom: none;
+    box-shadow: 5px 0px 8px 1px #191919;
+     background:url(blue.PNG);
+     color:white;
+     cursor: pointer;
+     font-family: cursive;
+     font-weight: bolder;
+     outline: none;
+
+}
+
