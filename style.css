@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    background: #2d354a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.box{
+    border: 1px solid #2d354a;
+    width: 360px;
+    height: 520px;
+    position: fixed;
+    left: 38%;
+    top: 10%;
+    box-shadow: 2px 4px 19px;
+    background: #2d354a;
+    border-radius: 20px;
+}
+
+
+.subbox{
+    margin: 40px 7%;
+   
+}
+
+
+
+.textview{
+    width: 90%;
+    padding: 10px;
+    margin: 10px 2%;
+    border-radius: 4px;
+    font-size: 18px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
