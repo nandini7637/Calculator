@@ -40,3 +40,19 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
 }
+
+input[type = "button"]{
+    width: 55px;
+    height: 60px;
+    border-radius: 60px;
+    font-size: 20px;
+    border: none;
+    border-bottom: none;
+    box-shadow: 5px 0px 8px 1px #191919;
+     background: white;
+     color: #2d354a;
+     cursor: pointer;
+     font-family: cursive;
+     font-weight: bolder;
+     outline: none;
+}
