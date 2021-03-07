@@ -79,4 +79,14 @@ input[type="submit"]{
      outline: none;
 
 }
+h2 {
+    position: fixed;
+    top: 13%;
+    left: 45%;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
 
