@@ -9,3 +9,8 @@ function equal(){
         document.form.textview.value=eval(exp);
     }
 }
+
+function clean()
+{
+    document.form.textview.value="";
+}
